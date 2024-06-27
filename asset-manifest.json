@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Machanic/static/css/main.f855e6bc.css",
+    "main.js": "/Text-Machanic/static/js/main.f228dc57.js",
+    "static/js/453.55fbde2e.chunk.js": "/Text-Machanic/static/js/453.55fbde2e.chunk.js",
+    "index.html": "/Text-Machanic/index.html",
+    "main.f855e6bc.css.map": "/Text-Machanic/static/css/main.f855e6bc.css.map",
+    "main.f228dc57.js.map": "/Text-Machanic/static/js/main.f228dc57.js.map",
+    "453.55fbde2e.chunk.js.map": "/Text-Machanic/static/js/453.55fbde2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f228dc57.js"
+  ]
+}
